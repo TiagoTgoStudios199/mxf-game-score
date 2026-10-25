@@ -1,7 +1,7 @@
 {
-  "bonus2": 4,
+  "bonus2": 3,
   "passo": 1,
-  "flip": 8,
+  "flip": 6,
   "pps": 2.0,
   "desconto": 0.25,
   "sempre_ligada": false
