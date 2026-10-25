@@ -1,12 +1,12 @@
 {
+  "pps": 2.0,
   "bonus2": 3,
   "passo": 1,
-  "flip": 4,
-  "flip360": 5,
+  "flip": 5,
+  "flip360": 6,
   "flip_passo": 1,
   "noh_pps": 1.0,
   "noh_max": 5,
-  "pps": 2.0,
   "desconto": 0.25,
-  "sempre_ligada": false
+  "sempre_ligada": true
 }
