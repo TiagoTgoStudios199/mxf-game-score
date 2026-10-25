@@ -8,5 +8,12 @@
   "noh_pps": 1.0,
   "noh_max": 5,
   "desconto": 0.25,
-  "sempre_ligada": true
+  "sempre_ligada": true,
+  "limites": {
+    "Stunt06": {
+      "manobra": "Volt",
+      "inclinacao": 150,
+      "giro360": 90
+    }
+  }
 }
