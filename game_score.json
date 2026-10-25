@@ -1,9 +1,9 @@
 {
-  "pps": 2.0,
+  "pps": 1.0,
   "bonus2": 3,
   "passo": 1,
-  "flip": 5,
-  "flip360": 6,
+  "flip": 4,
+  "flip360": 5,
   "flip_passo": 1,
   "noh_pps": 1.0,
   "noh_max": 5,
