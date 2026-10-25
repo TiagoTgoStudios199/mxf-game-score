@@ -3,6 +3,9 @@
   "passo": 1,
   "flip": 6,
   "flip360": 8,
+  "flip_passo": 2,
+  "noh_pps": 1.0,
+  "noh_max": 5,
   "pps": 2.0,
   "desconto": 0.25,
   "sempre_ligada": false
