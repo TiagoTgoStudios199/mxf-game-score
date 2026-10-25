@@ -8,12 +8,116 @@
   "noh_pps": 1.0,
   "noh_max": 5,
   "desconto": 0.25,
+  "ff": 10,
+  "ff_passo": 1,
   "sempre_ligada": true,
   "limites": {
+    "Stunt03": {
+      "manobra": "CanCan",
+      "giro360": 120
+    },
+    "Stunt04": {
+      "manobra": "Hollyman",
+      "inclinacao": 150,
+      "giro360": 145
+    },
+    "Stunt05": {
+      "manobra": "No Hander",
+      "inclinacao": 180
+    },
     "Stunt06": {
       "manobra": "Volt",
+      "inclinacao": 175,
+      "giro360": 165
+    },
+    "Stunt08": {
+      "manobra": "Whip",
       "inclinacao": 150,
+      "giro360": 165
+    },
+    "Stunt09": {
+      "manobra": "Hart Attack",
+      "inclinacao": 120,
       "giro360": 90
+    },
+    "Stunt10": {
+      "manobra": "One hand Seatgrab",
+      "giro360": 145
+    },
+    "Stunt11": {
+      "manobra": "Deadbody",
+      "giro360": 145
+    },
+    "Stunt13": {
+      "manobra": "KOD",
+      "giro360": 145
+    },
+    "Stunt16": {
+      "manobra": "9 O'Clock Indian Air",
+      "inclinacao": 150,
+      "giro360": 145
+    },
+    "Stunt17": {
+      "manobra": "Tsunami",
+      "giro360": 145
+    },
+    "Stunt19": {
+      "manobra": "Shaolin",
+      "giro360": 145
+    },
+    "Stunt20": {
+      "manobra": "Cordova",
+      "giro360": 145
+    },
+    "Stunt21": {
+      "manobra": "Hollygrab",
+      "inclinacao": 150,
+      "giro360": 130
+    },
+    "Stunt22": {
+      "manobra": "Rigor Mortis",
+      "inclinacao": 150,
+      "giro360": 130
+    },
+    "Stunt23": {
+      "manobra": "9 O'Clock Nac",
+      "inclinacao": 150,
+      "giro360": 145
+    },
+    "Stunt24": {
+      "manobra": "Stripper",
+      "giro360": 145
+    },
+    "Stunt25": {
+      "manobra": "Cliffhanger",
+      "giro360": 145
+    },
+    "Stunt26": {
+      "manobra": "Rock Solid",
+      "giro360": 145
+    },
+    "Stunt27": {
+      "manobra": "Stalefish",
+      "giro360": 145
+    },
+    "Stunt33": {
+      "manobra": "No Handed Disco Can",
+      "inclinacao": 150,
+      "giro360": 145
+    },
+    "Stunt37": {
+      "manobra": "Varial",
+      "inclinacao": 150,
+      "giro360": 165
+    },
+    "Stunt38": {
+      "manobra": "Sidewinder",
+      "inclinacao": 95,
+      "giro360": 145
+    },
+    "Stunt41": {
+      "manobra": "Doublegrab",
+      "giro360": 150
     }
   }
 }
