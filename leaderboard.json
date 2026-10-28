@@ -1,0 +1,38 @@
+{
+"atualizado": "27/10/2026 21:48",
+"rounds": [
+{
+"data": "27/10/2026",
+"hora": "19:52:49",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 1000,
+"combos": "16",
+"maior": "96",
+"pista": "",
+"tempo": 0
+},
+{
+"data": "27/10/2026",
+"hora": "21:05:48",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 836,
+"combos": "11",
+"maior": "96",
+"pista": "FS02",
+"tempo": 120
+},
+{
+"data": "27/10/2026",
+"hora": "21:20:32",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 690,
+"combos": "8",
+"maior": "96",
+"pista": "FS04",
+"tempo": 120
+}
+]
+}
