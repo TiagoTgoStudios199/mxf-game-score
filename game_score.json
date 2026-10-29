@@ -13,7 +13,7 @@
   "sempre_ligada": true,
   "limites": {
     "Stunt03": {
-      "manobra": "CanCan",
+      "manobra": "Carry On Left",
       "giro360": 120
     },
     "Stunt04": {
@@ -37,7 +37,6 @@
     },
     "Stunt09": {
       "manobra": "Hart Attack",
-      "inclinacao": 120,
       "giro360": 90
     },
     "Stunt10": {
@@ -115,9 +114,19 @@
       "inclinacao": 95,
       "giro360": 145
     },
+    "Stunt40": {
+      "manobra": "Carry On Right",
+      "giro360": 120
+    },
     "Stunt41": {
       "manobra": "Doublegrab",
       "giro360": 150
     }
+  },
+  "frontflip": {
+    "ativo": true,
+    "carry": true,
+    "carry_dir": "rodeo",
+    "carry_forca": 70
   }
 }
