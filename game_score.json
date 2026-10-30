@@ -14,6 +14,7 @@
   "pct3": 2.7,
   "teto": 99,
   "ar_tempo": 1.9,
+  "pouso_pct": 10.0,
   "sempre_ligada": true,
   "limites": {
     "Stunt02": {
