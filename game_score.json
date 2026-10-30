@@ -15,7 +15,7 @@
   "teto": 99,
   "ar_tempo": 1.9,
   "pouso_pct": 10.0,
-  "pouso_rigor": 1.0,
+  "pouso_rigor": 3.0,
   "sempre_ligada": true,
   "limites": {
     "Stunt02": {
