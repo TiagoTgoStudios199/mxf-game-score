@@ -67,6 +67,10 @@
       "manobra": "Shaolin",
       "giro360": 160
     },
+    "Stunt20": {
+      "manobra": "Cordova",
+      "giro360": 165
+    },
     "Stunt21": {
       "manobra": "Hollygrab",
       "inclinacao": 165,
