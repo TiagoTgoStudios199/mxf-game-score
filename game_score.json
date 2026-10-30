@@ -20,6 +20,10 @@
       "manobra": "Lazyboy",
       "giro360": 165
     },
+    "Stunt03": {
+      "manobra": "360 Carry On Left",
+      "tempo_ar": 2
+    },
     "Stunt04": {
       "manobra": "Hollyman",
       "inclinacao": 165,
@@ -103,6 +107,10 @@
       "manobra": "Cali Roll",
       "giro360": 165
     },
+    "Stunt30": {
+      "manobra": "Frontflip",
+      "tempo_ar": 2
+    },
     "Stunt33": {
       "manobra": "Flintstone",
       "inclinacao": 160,
@@ -125,6 +133,10 @@
       "manobra": "Sidewinder",
       "inclinacao": 175,
       "giro360": 165
+    },
+    "Stunt40": {
+      "manobra": "360 Carry On Right",
+      "tempo_ar": 2
     },
     "Stunt41": {
       "manobra": "Doublegrab",
