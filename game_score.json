@@ -12,9 +12,18 @@
   "ff_passo": 1,
   "sempre_ligada": true,
   "limites": {
+    "Stunt02": {
+      "manobra": "Lazyboy",
+      "giro360": 165
+    },
+    "Stunt04": {
+      "manobra": "Hollyman",
+      "inclinacao": 165,
+      "giro360": 150
+    },
     "Stunt06": {
       "manobra": "Volt",
-      "inclinacao": 175,
+      "inclinacao": 160,
       "giro360": 165
     },
     "Stunt08": {
@@ -34,8 +43,70 @@
       "manobra": "Deadbody",
       "giro360": 165
     },
+    "Stunt13": {
+      "manobra": "KOD",
+      "giro360": 160
+    },
+    "Stunt16": {
+      "manobra": "9 O'Clock Indian Air",
+      "inclinacao": 160,
+      "giro360": 165
+    },
+    "Stunt17": {
+      "manobra": "Tsunami",
+      "giro360": 165
+    },
+    "Stunt19": {
+      "manobra": "Shaolin",
+      "giro360": 160
+    },
+    "Stunt21": {
+      "manobra": "Hollygrab",
+      "inclinacao": 165,
+      "giro360": 160
+    },
+    "Stunt22": {
+      "manobra": "Rigor Mortis",
+      "inclinacao": 165,
+      "giro360": 165
+    },
+    "Stunt23": {
+      "manobra": "9 O'Clock Nac",
+      "inclinacao": 165,
+      "giro360": 165
+    },
+    "Stunt24": {
+      "manobra": "Stripper",
+      "giro360": 165
+    },
+    "Stunt25": {
+      "manobra": "Cliffhanger",
+      "giro360": 165
+    },
+    "Stunt26": {
+      "manobra": "Rock Solid",
+      "giro360": 165
+    },
+    "Stunt27": {
+      "manobra": "Stalefish",
+      "giro360": 165
+    },
+    "Stunt32": {
+      "manobra": "Disco Can",
+      "inclinacao": 165,
+      "giro360": 165
+    },
+    "Stunt33": {
+      "manobra": "No Handed Disco Can",
+      "inclinacao": 160,
+      "giro360": 165
+    },
     "Stunt34": {
       "manobra": "KOD Indian Air",
+      "giro360": 165
+    },
+    "Stunt36": {
+      "manobra": "Stripper Seatgrab",
       "giro360": 165
     },
     "Stunt37": {
