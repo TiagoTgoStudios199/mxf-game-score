@@ -12,7 +12,8 @@
   "ff_passo": 1,
   "pct2": 2.0,
   "pct3": 2.5,
-  "teto": 100,
+  "teto": 0,
+  "ar_tempo": 3.0,
   "sempre_ligada": true,
   "limites": {
     "Stunt02": {
@@ -103,7 +104,7 @@
       "giro360": 165
     },
     "Stunt33": {
-      "manobra": "No Handed Disco Can",
+      "manobra": "Flintstone",
       "inclinacao": 160,
       "giro360": 165
     },
