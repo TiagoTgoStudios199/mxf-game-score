@@ -12,8 +12,8 @@
   "ff_passo": 1,
   "pct2": 2.0,
   "pct3": 2.5,
-  "teto": 0,
-  "ar_tempo": 3.0,
+  "teto": 100,
+  "ar_tempo": 1.8,
   "sempre_ligada": true,
   "limites": {
     "Stunt02": {
