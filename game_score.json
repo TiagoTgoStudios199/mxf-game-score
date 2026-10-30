@@ -10,12 +10,12 @@
   "desconto": 0.5,
   "ff": 9,
   "ff_passo": 1,
-  "pct2": 2.2,
-  "pct3": 2.7,
+  "pct2": 2.5,
+  "pct3": 2.8,
   "teto": 99,
   "ar_tempo": 1.9,
   "pouso_pct": 10.0,
-  "pouso_rigor": 3.0,
+  "pouso_rigor": 5.0,
   "sempre_ligada": true,
   "limites": {
     "Stunt02": {
