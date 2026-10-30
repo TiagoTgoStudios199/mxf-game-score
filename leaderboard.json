@@ -1,5 +1,5 @@
 {
-"atualizado": "27/10/2026 21:48",
+"atualizado": "30/10/2026 09:00",
 "rounds": [
 {
 "data": "27/10/2026",
@@ -32,6 +32,83 @@
 "combos": "8",
 "maior": "96",
 "pista": "FS04",
+"tempo": 120
+},
+{
+"data": "28/10/2026",
+"hora": "07:40:12",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 875,
+"combos": "12",
+"maior": "85",
+"pista": "FS01",
+"tempo": 120
+},
+{
+"data": "28/10/2026",
+"hora": "15:01:32",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 517,
+"combos": "7",
+"maior": "92",
+"pista": "X-Games_17",
+"tempo": 60
+},
+{
+"data": "28/10/2026",
+"hora": "16:16:27",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 986,
+"combos": "13",
+"maior": "96",
+"pista": "X-Games_17",
+"tempo": 120
+},
+{
+"data": "29/10/2026",
+"hora": "08:33:51",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 672,
+"combos": "10",
+"maior": "92",
+"pista": "survivalflap",
+"tempo": 120
+},
+{
+"data": "29/10/2026",
+"hora": "18:57:49",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 801,
+"combos": "11",
+"maior": "86",
+"pista": "X-Games_17",
+"tempo": 120
+},
+{
+"data": "29/10/2026",
+"hora": "21:57:04",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 908,
+"combos": "14",
+"maior": "97",
+"pista": "FS02",
+"tempo": 120
+},
+{
+"data": "30/10/2026",
+"hora": "08:41:10",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 977,
+"combos": "13",
+"maior": "97",
+"pista": "FS02",
 "tempo": 120
 }
 ]
