@@ -1,5 +1,5 @@
 {
-"atualizado": "30/10/2026 09:00",
+"atualizado": "30/10/2026 10:07",
 "rounds": [
 {
 "data": "27/10/2026",
@@ -110,6 +110,28 @@
 "maior": "97",
 "pista": "FS02",
 "tempo": 120
+},
+{
+"data": "30/10/2026",
+"hora": "09:14:21",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 1018,
+"combos": "13",
+"maior": "97",
+"pista": "X-Games_17",
+"tempo": 120
+},
+{
+"data": "30/10/2026",
+"hora": "10:06:03",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 477,
+"combos": "7",
+"maior": "95",
+"pista": "FS02",
+"tempo": 60
 }
 ]
 }
