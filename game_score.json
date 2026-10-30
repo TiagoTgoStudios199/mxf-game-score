@@ -21,6 +21,10 @@
       "inclinacao": 165,
       "giro360": 150
     },
+    "Stunt05": {
+      "manobra": "No Hander",
+      "inclinacao": 180
+    },
     "Stunt06": {
       "manobra": "Volt",
       "inclinacao": 160,
