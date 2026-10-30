@@ -13,22 +13,17 @@
   "pct2": 2.2,
   "pct3": 2.7,
   "teto": 99,
-  "ar_tempo": 1.9,
+  "ar_tempo": 2.1,
   "sempre_ligada": true,
   "limites": {
     "Stunt02": {
       "manobra": "Lazyboy",
       "giro360": 165
     },
-    "Stunt03": {
-      "manobra": "360 Carry On Left",
-      "tempo_ar": 2.45
-    },
     "Stunt04": {
       "manobra": "Hollyman",
       "inclinacao": 165,
-      "giro360": 150,
-      "tempo_ar": 2.3
+      "giro360": 150
     },
     "Stunt05": {
       "manobra": "No Hander",
@@ -37,8 +32,7 @@
     "Stunt06": {
       "manobra": "Volt",
       "inclinacao": 160,
-      "giro360": 165,
-      "tempo_ar": 2.3
+      "giro360": 165
     },
     "Stunt08": {
       "manobra": "Whip",
@@ -107,12 +101,7 @@
     },
     "Stunt27": {
       "manobra": "Cali Roll",
-      "giro360": 165,
-      "tempo_ar": 2.3
-    },
-    "Stunt30": {
-      "manobra": "Frontflip",
-      "tempo_ar": 2
+      "giro360": 165
     },
     "Stunt33": {
       "manobra": "Flintstone",
@@ -136,10 +125,6 @@
       "manobra": "Sidewinder",
       "inclinacao": 175,
       "giro360": 165
-    },
-    "Stunt40": {
-      "manobra": "360 Carry On Right",
-      "tempo_ar": 2.45
     },
     "Stunt41": {
       "manobra": "Doublegrab",
