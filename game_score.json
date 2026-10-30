@@ -10,6 +10,9 @@
   "desconto": 0.25,
   "ff": 10,
   "ff_passo": 1,
+  "pct2": 2.0,
+  "pct3": 2.5,
+  "teto": 100,
   "sempre_ligada": true,
   "limites": {
     "Stunt02": {
