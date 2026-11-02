@@ -1,5 +1,5 @@
 {
-"atualizado": "02/11/2026 19:23",
+"atualizado": "02/11/2026 19:45",
 "rounds": [
 {
 "data": "27/10/2026",
@@ -241,6 +241,28 @@
 "combos": "13",
 "maior": "85",
 "pista": "FS02",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "19:41:02",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 534,
+"combos": "8",
+"maior": "81",
+"pista": "Swespot_fmx_tour",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "19:43:42",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 699,
+"combos": "9",
+"maior": "94",
+"pista": "survivalflap",
 "tempo": 120
 }
 ]
