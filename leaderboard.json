@@ -1,5 +1,5 @@
 {
-"atualizado": "02/11/2026 11:35",
+"atualizado": "02/11/2026 17:14",
 "rounds": [
 {
 "data": "27/10/2026",
@@ -142,6 +142,61 @@
 "combos": "8",
 "maior": "84",
 "pista": "FS06",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "13:25:19",
+"piloto": "199Modder",
+"versao": "2006",
+"pontos": 521,
+"combos": "6",
+"maior": "97",
+"pista": "",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "15:19:13",
+"piloto": "The Gamer",
+"versao": "recriada",
+"pontos": 461,
+"combos": "7",
+"maior": "83",
+"pista": "FS02",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "15:22:27",
+"piloto": "The Gamer",
+"versao": "recriada",
+"pontos": 433,
+"combos": "7",
+"maior": "81",
+"pista": "FS06",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "15:25:14",
+"piloto": "The Gamer",
+"versao": "recriada",
+"pontos": 712,
+"combos": "9",
+"maior": "94",
+"pista": "X-Games_17",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "15:55:44",
+"piloto": "@Roliveira33",
+"versao": "2006",
+"pontos": 148,
+"combos": "2",
+"maior": "75",
+"pista": "",
 "tempo": 120
 }
 ]
