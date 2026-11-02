@@ -1,5 +1,5 @@
 {
-"atualizado": "02/11/2026 17:38",
+"atualizado": "02/11/2026 17:50",
 "rounds": [
 {
 "data": "27/10/2026",
@@ -219,6 +219,17 @@
 "combos": "10",
 "maior": "93",
 "pista": "FS02",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "17:40:50",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 709,
+"combos": "10",
+"maior": "92",
+"pista": "FS04",
 "tempo": 120
 }
 ]
