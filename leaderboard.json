@@ -1,5 +1,5 @@
 {
-"atualizado": "02/11/2026 19:45",
+"atualizado": "03/11/2026 19:37",
 "rounds": [
 {
 "data": "27/10/2026",
@@ -263,6 +263,28 @@
 "combos": "9",
 "maior": "94",
 "pista": "survivalflap",
+"tempo": 120
+},
+{
+"data": "02/11/2026",
+"hora": "19:47:04",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 669,
+"combos": "9",
+"maior": "82",
+"pista": "FS08",
+"tempo": 120
+},
+{
+"data": "03/11/2026",
+"hora": "19:35:10",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 907,
+"combos": "12",
+"maior": "86",
+"pista": "FS05",
 "tempo": 120
 }
 ]
