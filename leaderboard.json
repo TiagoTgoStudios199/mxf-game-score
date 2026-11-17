@@ -1,5 +1,5 @@
 {
-"atualizado": "07/11/2026 16:12",
+"atualizado": "17/11/2026 07:03",
 "rounds": [
 {
 "data": "27/10/2026",
@@ -306,6 +306,17 @@
 "pontos": 730,
 "combos": "11",
 "maior": "86",
+"pista": "X-Games_17",
+"tempo": 120
+},
+{
+"data": "17/11/2026",
+"hora": "07:00:23",
+"piloto": "199Modder",
+"versao": "recriada",
+"pontos": 793,
+"combos": "11",
+"maior": "76",
 "pista": "X-Games_17",
 "tempo": 120
 }
